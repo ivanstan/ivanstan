@@ -2,8 +2,6 @@
 
 Maintainer of: https://tle.ivanstanojevic.me/ 
 
-[![Ivans's github stats](https://github-readme-stats.vercel.app/api?username=ivanstan)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **ivanstan/ivanstan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
